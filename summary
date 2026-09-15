@@ -1,0 +1,50 @@
+KPI MEASURES										Sales by Top 5 Customers							
+AOV	ASpC	Total Sales	Total Customers	Total Segment	Total Order	Total Category	RPC	Total Products		Customers	Sales			Region	Ship Mode	Ave. Shpping Day	Status
+$459.42	$2.85k	$2.26M	793	3	4922	3	98.36%	17		Tamara Chand	$19.05k			Central	First Class	2.31	0.00
+KPI MEASURES										Adrian Barton	$14.47k				Same Day	0.03	1.00
+Average Sales	Max Sales	Min Sales	Ave. Shpping Day	Total City	Total States	Total Region	Total Ship Mode	YoY Growth %		Raymond Buch	$15.12k				Second Class	3.36	0.00
+$230.76	$22.64k	$0.44	3.96	528	49	4	4	0.00%		Sean Miller	$25.04k				Standard Class	4.98	-1.00
+										Tom Ashbrook	$14.60k			East	First Class	2.21	0.00
+Orders By Ship Mode			YoY Growth per Year			Sales By Segment									Same Day	0.00	1.00
+Ship Mode	Orders		Year	YoY Growth		Segment	Sales		Top 10 Selling States						Second Class	3.27	0.00
+First Class	772		2015			Consumer	$1.15M		State	Sales					Standard Class	4.97	-1.00
+Same Day	261		2016	-4.20%		Corporate	$688.49k		California	$446.31k				South	First Class	2.12	0.00
+Second Class	944		2017	30.64%		Home Office	$424.70k		Florida	$88.44k					Same Day	0.01	1.00
+Standard Class	2945		2018	20.30%					Illinois	$79.24k					Second Class	3.20	0.00
+						Top 5 Selling Cities			Michigan	$76.14k					Standard Class	5.01	-1.00
+Monthly Sales Trend			Regional Sales			City	Sales		New York	$306.36k				West	First Class	2.10	0.00
+Month	Monthly Sales		Region	Regional Sales		Los Angeles	$173.42k		Ohio	$74.85k					Same Day	0.10	1.00
+Jan	$94.29k		Central	$492.65k		New York City	$252.46k		Pennsylvania	$116.28k					Second Class	3.17	0.00
+Feb	$59.37k		East	$669.24k		Philadelphia	$108.84k		Texas	$168.57k					Standard Class	5.07	-1.00
+Mar	$197.57k		South	$389.15k		San Francisco	$109.04k		Virginia	$70.64k							
+Apr	$136.00k		West	$710.22k		Seattle	$116.11k		Washington	$135.21k		Customer Order Frequency 					
+May	$154.09k											Order Frequency	Customer				
+Jun	$145.84k		Sales By Categroy			States (Top 10) Order Volume			Sales by Ship Mode			1 Order	13				
+Jul	$145.54k		Category	Sales		State	Order		Ship Mode	Sales		2-3 Orders	89				
+Aug	$157.32k		Furniture	$728.38k		California	1002		First Class	$345.57k		4-6 Orders	354				
+Sep	$300.10k		Office Supplies	$705.42k		Florida	197		Same Day	$125.22k		7+ Orders	337				
+Oct	$199.50k		Technology	$827.46k		Illinois	270		Second Class	$449.91k							
+Nov	$350.16k					Michigan	116		Standard Class	$1.34M		Bottom 10 Selling Customers					
+Dec	$321.48k		Top 10 Selling Sub-Categories(Products)			New York	547					Customer Name	Total Sales				
+			Product	Sales		North Carolina	134		Regional Customers			Carl Jackson	$16.52				
+Ave. Days by Ship Mode			Accessories	$164.19k		Ohio	227		Region	Sum of Count		Ionia McGrath	$48.40				
+Ship Mode	Ave. Shpping Day		Appliances	$104.62k		Pennsylvania	285		Central	184		Larry Blacks	$50.19				
+First Class	2		Binders	$200.03k		Texas	480		East	220		Lela Donovan	$5.30				
+Same Day	0		Bookcases	$113.81k		Washington	254		South	134		Mitch Gastineau	$16.74				
+Second Class	3		Chairs	$322.54k					West	255		Ricardo Emerson	$48.36				
+Standard Class	5		Copiers	$146.25k		Customers By Segment						Roy Skaria	$22.33				
+			Machines	$189.24k		Segment	Customer					Sung Chung	$14.11				
+Monthly Order Volume			Phones	$327.78k		Consumer	409					Susan Gilcrest	$47.95				
+Month	Orders		Storage	$219.34k		Corporate	236					Thais Sissman	$4.83				
+Jan	174		Tables	$202.81k		Home Office	148										
+Feb	161																
+Mar	346		Shipping Duration														
+Apr	337		Days to Ship	Percentage of Order		Days to Ship	Count of Order ID										
+May	363		0	5%		0day	5%										
+Jun	354		1	4%		1day	4%										
+Jul	331		2	13%		2days	13%										
+Aug	335		3	10%		3days	10%										
+Sep	674		4	28%		4days	28%										
+Oct	411		5	22%		5days	22%										
+Nov	743		6	12%		6days	12%										
+Dec	693		7	6%		7days	6%										
